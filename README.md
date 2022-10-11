@@ -1,2 +1,2 @@
-# Mentoria_Espacios_Verdes_2022
-Mentoría "Espacios Verdes", correspondiente a la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones.
+# Green space mentoring_2022
+Mentoring "Green Spaces", corresponding to the Postgraduate Certification in Data Science, Automatic Learning and its Applications.
